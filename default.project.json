@@ -23,10 +23,17 @@
       }
     },
 
+
     "Workspace": {
       "$properties": {
         "StreamingEnabled": false
       },
+      "Grzegorz_npc":{
+        "$className":"Model",
+        "$path": "workspace/Grzegorz_npc"
+      },
+
+
       "Baseplate": {
         "$className": "Part",
         "$properties": {
